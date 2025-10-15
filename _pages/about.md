@@ -12,5 +12,3 @@ I am currently a Postdoctoral Researcher at the **University of Amsterdam** in t
 Before joining the University of Amsterdam, I completed my Ph.D. in **Artificial Intelligence (cum laude)** through a joint program between Politecnico di Torino and the University of Padova, where I worked within the **Intelligent Autonomous Systems Laboratory (IASLab)**.
 
 
-Selected publications
-======
