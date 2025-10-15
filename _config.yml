@@ -23,7 +23,7 @@ repository               : "leobarcellona.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Leonardo Barcellona"
   pronouns         : # example: "she/her"  
   bio              : "Postodoctoral research in robot learning and computer vision"
